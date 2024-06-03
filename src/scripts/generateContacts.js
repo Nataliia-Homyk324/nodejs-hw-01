@@ -9,7 +9,7 @@ const generateContacts = async (number) => {
         const updatedContacts = [...JSON.parse(contacts), ...newContacts];
 
         await fs.writeFile(PATH_DB, JSON.stringify(updatedContacts));
-        console.log(`Generated ${number} new contacts and added them to the file.`);
+        console.log(`Generated ${number} new contacts and added them to the array.`);
     } catch (error) {
         console.error(`Error generating contacts: ${error.message}`);
     }
