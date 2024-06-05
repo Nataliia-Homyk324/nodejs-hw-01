@@ -9,7 +9,8 @@ export const addOneContact = async () => {
         const newContact = createFakeContact();
         const updatedContacts = [...JSON.parse(contacts), newContact];
 
-        await fs.writeFile(PATH_DB, JSON.stringify(updatedContacts));
+          await fs.writeFile(PATH_DB, JSON.stringify(updatedContacts));
+          
 
         console.log(`Generated new contact and added new contact to the array.`);
     } catch (error) {
