@@ -1,1 +1,44 @@
-[{"name":"Thomas Kuvalis","phone":"904-282-3018 x780","email":"Alfonzo53@hotmail.com","job":"Principal Assurance Architect"},{"name":"Alex King","phone":"(626) 390-7367 x343","email":"Leanna_Schimmel60@gmail.com","job":"Lead Brand Producer"},{"name":"Marie Howe","phone":"1-429-315-6779 x9840","email":"Mckayla_Kuhic75@gmail.com","job":"Senior Infrastructure Orchestrator"},{"name":"Simon Christiansen","phone":"813-802-7648","email":"Selena.Rice54@yahoo.com","job":"National Data Strategist"},{"name":"Bobbie Spinka","phone":"1-273-789-6503","email":"Andres29@hotmail.com","job":"Senior Communications Coordinator"},{"name":"Norman Gulgowski","phone":"1-743-272-8528 x10408","email":"Lauriane.Mante57@hotmail.com","job":"Customer Group Developer"},{"name":"Mr. Nathaniel Renner","phone":"496-262-5114 x756","email":"Trinity18@hotmail.com","job":"Corporate Quality Representative"}]
+[
+  {
+    "name": "Jerald Pfannerstill",
+    "phoneNumber": "(593) 964-5121",
+    "email": "Gerson19@hotmail.com",
+    "job": "International Paradigm Specialist"
+  },
+  {
+    "name": "Elsa Marquardt",
+    "phoneNumber": "1-904-249-1135 x29412",
+    "email": "Alysha_Wolf52@hotmail.com",
+    "job": "Principal Operations Consultant"
+  },
+  {
+    "name": "Diana Weissnat",
+    "phoneNumber": "627.545.7440 x001",
+    "email": "Jayson96@hotmail.com",
+    "job": "Internal Brand Facilitator"
+  },
+  {
+    "name": "Arthur Ankunding",
+    "phoneNumber": "(263) 988-5532 x38358",
+    "email": "Dina_Torp59@yahoo.com",
+    "job": "Regional Division Liaison"
+  },
+  {
+    "name": "Adam Kovacek PhD",
+    "phone": "(282) 468-5218",
+    "email": "Angelica.Lehner@yahoo.com",
+    "job": "Dynamic Paradigm Agent"
+  },
+  {
+    "name": "Colleen Adams",
+    "phone": "853.875.8694",
+    "email": "Violette.Franey@gmail.com",
+    "job": "Regional Assurance Producer"
+  },
+  {
+    "name": "Jacob Murray",
+    "phone": "(379) 639-0535 x80945",
+    "email": "Oda_Stoltenberg-Bayer41@hotmail.com",
+    "job": "Internal Optimization Planner"
+  }
+]

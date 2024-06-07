@@ -7,7 +7,7 @@ export const thanos = async () => {
 
         const newContacts = JSON.parse(contacts).filter(() => Math.random() > 0.5);
 
-        await fs.writeFile(PATH_DB, JSON.stringify(newContacts));
+        await fs.writeFile(PATH_DB, JSON.stringify(newContacts,null,2));
         console.log('Thanos has snapped his fingers');
     } catch (error) {
         console.error(`Error processing the contacts:: ${error.message}`);
